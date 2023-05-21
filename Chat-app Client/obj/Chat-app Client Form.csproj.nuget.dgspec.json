@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\Chat-app Client\\Chat-app Client Form.csproj": {}
+    "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Client\\Chat-app Client Form.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\Chat-app Client\\Chat-app Client Form.csproj": {
+    "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Client\\Chat-app Client Form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\Chat-app Client\\Chat-app Client Form.csproj",
+        "projectUniqueName": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Client\\Chat-app Client Form.csproj",
         "projectName": "Chat-app Client Form",
-        "projectPath": "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\Chat-app Client\\Chat-app Client Form.csproj",
-        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\Chat-app Client\\obj\\",
+        "projectPath": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Client\\Chat-app Client Form.csproj",
+        "packagesPath": "C:\\Users\\Ciprian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ciprian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +76,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

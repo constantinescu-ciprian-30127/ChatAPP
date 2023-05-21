@@ -7567,19 +7567,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\carlo\\.nuget\\packages\\": {}
+    "C:\\Users\\Ciprian\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\TestProject1\\TestProject1.csproj",
-      "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\TestProject1\\TestProject1.csproj",
-      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\TestProject1\\obj\\",
+      "projectUniqueName": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\TestProject1\\Chat-APP Test.csproj",
+      "projectName": "Chat-APP Test",
+      "projectPath": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\TestProject1\\Chat-APP Test.csproj",
+      "packagesPath": "C:\\Users\\Ciprian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ciprian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7593,11 +7598,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\Chat-app Client\\Chat-app Client Form.csproj": {
-              "projectPath": "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\Chat-app Client\\Chat-app Client Form.csproj"
+            "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Client\\Chat-app Client Form.csproj": {
+              "projectPath": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Client\\Chat-app Client Form.csproj"
             },
-            "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\Chat-app Server\\Chat-app Server Form.csproj": {
-              "projectPath": "C:\\Users\\carlo\\source\\repos\\Chat-app Cipri v2\\Chat-app Server\\Chat-app Server Form.csproj"
+            "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Server\\Chat-app Server Form.csproj": {
+              "projectPath": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Server\\Chat-app Server Form.csproj"
             }
           }
         }
@@ -7657,7 +7662,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

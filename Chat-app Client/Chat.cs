@@ -10,7 +10,6 @@ namespace Chat_app_Client
 {
     public partial class Chat : Form
     {
-
         private String userName;
         private String localServerIP;
         private String localServerPort = "500";
@@ -41,7 +40,6 @@ namespace Chat_app_Client
             client.Events.DataReceived += Events_DataReceived;
             client.Events.Disconnected += Events_Disconnected;
             chatsBtn.Image = new Bitmap("C:\\Users\\carlo\\source\\repos\\Chat-app Cipri\\Chat-app Client\\Resources\\message_selected.png");
-
             try
             {
                 client.Connect();
@@ -50,7 +48,6 @@ namespace Chat_app_Client
             {
                 MessageBox.Show(ex.Message, "Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-
         }
 
         private void UpdateLoggedUsers()

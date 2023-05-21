@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Server\\Chat-app Server Form.csproj": {}
+    "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\TestProject1\\Chat-APP Test.csproj": {}
   },
   "projects": {
     "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Client\\Chat-app Client Form.csproj": {
@@ -146,6 +146,102 @@
             },
             "Microsoft.WindowsDesktop.App.WindowsForms": {
               "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\TestProject1\\Chat-APP Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\TestProject1\\Chat-APP Test.csproj",
+        "projectName": "Chat-APP Test",
+        "projectPath": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\TestProject1\\Chat-APP Test.csproj",
+        "packagesPath": "C:\\Users\\Ciprian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ciprian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Client\\Chat-app Client Form.csproj": {
+                "projectPath": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Client\\Chat-app Client Form.csproj"
+              },
+              "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Server\\Chat-app Server Form.csproj": {
+                "projectPath": "C:\\Users\\Ciprian\\Desktop\\ProiectII\\ChatAPP\\Chat-app Server\\Chat-app Server Form.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.33, )"
+            },
+            "XUnitPriorityOrderer": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
