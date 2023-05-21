@@ -3,6 +3,7 @@
 
 ![alt text](useCaseDiagram.png)
 <br>UseCaseDiagram
+<li></li>
 ![alt text](classDiagram.png)
 <br>ClassDiagram
 <br>
