@@ -1,8 +1,8 @@
 # ChatAPP
 
 ![alt text](classDiagram.png)
-#ClassDiagram
+ClassDiagram
 
 
 ![alt text](useCaseDiagram.png)
-#UseCaseDiagram
+UseCaseDiagram
