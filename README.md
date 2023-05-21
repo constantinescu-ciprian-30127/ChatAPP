@@ -5,5 +5,5 @@
 <br>UseCaseDiagram
 ![alt text](classDiagram.png)
 <br>ClassDiagram
-![alt text](databaseDiagram.png)
+![alt text](databaseDiagram.jpg)
 <br>DBDiagram
